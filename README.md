@@ -4,7 +4,7 @@ This is a net calculator for exams for Turkish students (idk if this applies to 
 
 ### How to use 
 
-to use the program, navigate inside the `src` directory, after that. open it in a terminal and type `dotnet run` (you must have [dotnet installed](https://dotnet.microsoft.com/en-us/) for this.
+Simply run `calculator.exe`.
 
 After that, you input how many points are to be deducted from your net result if you get a question wrong. Then you input the total number of questions, correct answers, incorrect answers, and unanswered questions.
 
